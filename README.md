@@ -73,3 +73,21 @@ It extracts the names of those neighbors and prints them as recommendations.
 7. Redundant Code Block
 
 The script includes a redundant code block that redefines the recommend function and calls it again. This part of the code duplicates the functionality of the earlier cosine similarity recommendation section.  It's included in the original code, but it's not necessary and should be removed in a production environment.  It also incorrectly names the results as  auto_encoder_recoms, even though no autoencoder is used.
+
+
+
+
+
+OUTPUT:
+
+Pie Chart:
+![Image](https://github.com/user-attachments/assets/de2174d1-f61c-423f-a86d-335df3ed45d5)
+
+
+
+
+1. Anime Girl
+2. Anime Freak
+3. Anime In The Background
+4. Anime Tiddies
+5. Anime Bitch
