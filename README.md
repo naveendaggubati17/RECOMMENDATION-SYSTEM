@@ -94,6 +94,7 @@ The script includes a redundant code block that redefines the recommend function
 ---
 
 Pie Chart:
+
 ![Image](https://github.com/user-attachments/assets/de2174d1-f61c-423f-a86d-335df3ed45d5)
 
 ---
